@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #ffffff;
+    font-family: 'JetBrains Mono', monospace;
+    padding: 44px 52px 52px 52px;
+    width: 1050px;
+  }
+  .file-block {
+    background: #fafafa;
+    border: 1.5px solid #e0e0e0;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 14px rgba(0,0,0,0.06);
+  }
+  .titlebar {
+    background: #f0f0f0;
+    padding: 11px 18px;
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    border-bottom: 1.5px solid #e0e0e0;
+  }
+  .dot { width: 12px; height: 12px; border-radius: 50%; }
+  .dot-red    { background: #E03A3E; }
+  .dot-yellow { background: #FDB827; }
+  .dot-green  { background: #61BB46; }
+  .filename { margin-left: 8px; color: #999; font-size: 12px; letter-spacing: 0.04em; }
+  .panels {
+    display: flex;
+    align-items: stretch;
+  }
+  .panel {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+  .panel + .panel {
+    border-left: 1.5px solid #e0e0e0;
+  }
+  .panel-label {
+    background: #f7f7f7;
+    border-bottom: 1px solid #e8e8e8;
+    padding: 6px 24px;
+    font-size: 11px;
+    color: #bbb;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+  pre {
+    padding: 20px 24px 26px 24px;
+    font-size: 11.8px;
+    line-height: 1.82;
+    flex: 1;
+  }
+
+  .cm  { color: #aaa; font-style: italic; }
+  .ck  { color: #2e7d32; font-weight: 600; }
+  .cv  { color: #333; }
+  .ct  { color: #0077b6; font-weight: 600; }
+  .cs  { color: #d4870a; }
+  .cl  { color: #c0392b; }
+  .cc  { color: #6a0dad; }
+  .ca  { color: #1a1a1a; font-weight: 600; font-size: 12.5px; }
+  .cgt { color: #aaa; }
+</style>
+</head>
+<body>
+<div class="file-block">
+  <div class="titlebar">
+    <div class="dot dot-red"></div>
+    <div class="dot dot-yellow"></div>
+    <div class="dot dot-green"></div>
+    <span class="filename">config.yaml</span>
+  </div>
+  <div class="panels">
+
+    <!-- LEFT: scenario config -->
+    <div class="panel">
+      <div class="panel-label">scenario</div>
+      <pre><span class="ca">event_p_zero_gravity</span>:
+
+  <span class="cm"># ── SCENARIO DESCRIPTION ─────────────────────</span>
+  <span class="cm"># Passed to every agent as the event name.</span>
+  <span class="cm"># Agents generate 4 quantities from this +</span>
+  <span class="cm"># the participant's intake answers:</span>
+  <span class="cm">#   start_of_event          (~100-130 words)</span>
+  <span class="cm">#   event_effects           (effects list)</span>
+  <span class="cm">#   event_plot              (~50-word plot)</span>
+  <span class="cm">#   event_plot_from_effects (~100-word plot)</span>
+  <span class="ck">name</span>: <span class="cgt">></span>
+    <span class="cv">Gravity has suddenly stopped working.</span>
+    <span class="cv">Everything you normally do today — your</span>
+    <span class="cv">routines, your commute, your meals — now</span>
+    <span class="cv">happens in zero gravity. Walk through your</span>
+    <span class="cv">day from the moment you wake up.</span>
+
+  <span class="cm"># ── WHAT FEEDS THE AI AUTOCOMPLETER ──────────</span>
+  <span class="cm"># Selects which generated quantity is passed</span>
+  <span class="cm"># as event context to the completion LLM.</span>
+  <span class="cm">#  "start"             → start_of_event</span>
+  <span class="cm">#  "plot"              → event_plot</span>
+  <span class="cm">#  "plot_from_effects" → event_plot_from_effects</span>
+  <span class="cm">#  "effects"           → event_effects</span>
+  <span class="cm">#  "none"              → no event context</span>
+  <span class="ck">autocomplete_context</span>: <span class="cs">"plot_from_effects"</span>
+
+  <span class="cm"># ── WHAT THE PARTICIPANT SEES ─────────────────</span>
+  <span class="cm"># Selects which quantity is shown above the</span>
+  <span class="cm"># editor to set the scene. Can differ from</span>
+  <span class="cm"># autocomplete_context — e.g. show participant</span>
+  <span class="cm"># the opening sentence while feeding the LLM</span>
+  <span class="cm"># the richer plot. Same options as above.</span>
+  <span class="ck">shown_to_user</span>: <span class="cs">"start"</span>
+  <span class="ck">shown_to_user_prefix</span>: <span class="cv">"Imagine this happens</span>
+<span class="cv">    during your regular day"</span>
+
+  <span class="cm"># ── EDITOR PLACEHOLDER ────────────────────────</span>
+  <span class="cm"># Gray hint text shown before the participant</span>
+  <span class="cm"># starts typing. Disappears on first keystroke.</span>
+  <span class="ck">editor_placeholder</span>: <span class="cgt">></span>
+    <span class="cv">You wake up and immediately something is</span>
+    <span class="cv">different. Some ways to start: 'I woke up</span>
+    <span class="cv">and reached to turn off my alarm clock.</span>
+    <span class="cv">As soon as I touched it, I realized...</span>
+    <span class="cv">[writing assistant will autocomplete]...'</span>
+</pre>
+    </div>
+
+    <!-- RIGHT: intake form -->
+    <div class="panel">
+      <div class="panel-label">intake form</div>
+      <pre>  <span class="cm"># ── INTAKE FORM ──────────────────────────────</span>
+  <span class="cm"># Shown to participants before writing begins.</span>
+  <span class="cm"># Answers are combined into a character</span>
+  <span class="cm"># description and passed to every agent, so</span>
+  <span class="cm"># AI-generated content feels personally relevant.</span>
+  <span class="ck">additional_fields</span>:
+
+    <span class="ck">weekday_morning_routine</span>:
+      <span class="cm"># StringField: participant types freely</span>
+      <span class="ck">type</span>: <span class="ct">"StringField"</span>
+      <span class="ck">label</span>: <span class="cl">"Describe your typical</span>
+<span class="cl">        weekday morning routine."</span>
+
+    <span class="ck">living_floor</span>:
+      <span class="cm"># SelectField: participant picks one option</span>
+      <span class="ck">type</span>: <span class="ct">"SelectField"</span>
+      <span class="ck">label</span>: <span class="cl">"What floor do you live on?"</span>
+      <span class="ck">choices</span>:
+        - <span class="cc">"Ground floor"</span>
+        - <span class="cc">"2nd–5th floor"</span>
+        - <span class="cc">"6th floor or higher"</span>
+        - <span class="cc">"Single-family house"</span>
+
+    <span class="ck">daily_commute</span>:
+      <span class="ck">type</span>: <span class="ct">"SelectField"</span>
+      <span class="ck">label</span>: <span class="cl">"How do you usually get</span>
+<span class="cl">        to work or school?"</span>
+      <span class="ck">choices</span>:
+        - <span class="cc">"Walk"</span>
+        - <span class="cc">"Drive a car"</span>
+        - <span class="cc">"Take public transit"</span>
+        - <span class="cc">"Bike"</span>
+        - <span class="cc">"Work from home"</span>
+
+    <span class="ck">primary_activity</span>:
+      <span class="ck">type</span>: <span class="ct">"SelectField"</span>
+      <span class="ck">label</span>: <span class="cl">"What does most of your</span>
+<span class="cl">        workday look like?"</span>
+      <span class="ck">choices</span>:
+        - <span class="cc">"Sitting at a desk/computer"</span>
+        - <span class="cc">"Standing and walking around"</span>
+        - <span class="cc">"Physically active/outdoors"</span>
+        - <span class="cc">"Mix of sitting and moving"</span>
+</pre>
+    </div>
+
+  </div>
+</div>
+</body>
+</html>

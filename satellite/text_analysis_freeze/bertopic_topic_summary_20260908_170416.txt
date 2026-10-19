@@ -1,0 +1,328 @@
+
+================================================================================
+SWEEP Conservative (min_cluster=12, min_samples=6, neighbors=15)
+================================================================================
+
+
+================================================================================
+WHAT WORKED
+================================================================================
+
+Topic 0 | N = 60
+Label: satellites / cybersecurity / cybersecurity satellites / topic
+Keywords: satellites, cybersecurity, cybersecurity satellites, topic, feel, closer, satellites feel, helped
+------------------------------------------------------------
+[1] Making the topic more real and personal.
+[2] Making the issue of cybersecurity for satellites feel important to me
+[3] Making the topic of cybersecurity for satellites feel closer to my life
+[4] Making the topic of cybersecurity for satellites feel closer to my life
+[5] Making it feel closer to home.
+[6] Changing the way I see cybersecurity for satellites.
+[7] Changing your attitudes towards cybersecurity for satellites
+[8] I felt immersed in the scenario.
+[9] It did change my attitude, and awareness about satellites
+[10] How impactful such an event would be.
+[11] It helped brainstom different ideas of cybersecurity.
+[12] Just cybersecurity overall and how important it is
+[13] The AI's suggestions mentioning details that are relevant to me personally in the story
+[14] It helped me write the story and plan things out
+[15] It helped predict what I wanted to write.
+[16] It reinforced my beliefs that cybersecurity is vital.
+[17] It made the topic feel closer, like it could potentially happen in real life
+[18] They made me realize it is important to have cybersecurity.
+[19] the way it detailed the difference in life after the attack.
+[20] Increased importance of procedures/security that could prevent this in the future.
+
+Topic 1 | N = 38
+Label: happen / realize / affected / life
+Keywords: happen, realize, affected, life, day, granted, story, scary
+------------------------------------------------------------
+[1] It made me realize just how scary and out of control my life would be if this should happen.
+[2] It's not something that I think about on a regular basis, but writing this story made me realize this could easily happen, and the effects could be devastating to my family and my life
+[3] I really thought about what it would be like if our cypbersecurity was compromised and it terrified me.
+[4] It made me realize how my everyday life would be greatly affected.
+[5] It made me think about how my life would actually be affected by said attack.
+[6] The story made me think about how a cybersecruity attack like this would derail many aspects of my day to day life.
+[7] It made me realize how big a threat this is to my everyday life. My job, communication, and navigating abilities would be severely disrupted.
+[8] This put a lot into perspective for me. I realized how unprepared I am of such a scenario played out in real time.
+[9] Just thinking about the story made me realize how much of daily life would be affected if something like this happened.
+[10] Realizing the broad effects an event like that would have, and imagining myself in that scenario. The implications are not something I regularly think about, but writing the story made me feel very vulnerable.
+[11] made me realize how scary it could be and how you never know what might happen should always be prepare
+[12] It's very scary to think this very thing could very likely happen and without warning.
+[13] It really made me stop to reflect on how much my life would be affected for the worse if this were to happen. I honestly never thought about it happening so it's opened my eyes to the potential issue. Imagining real life scenarios helped it feel closer to me.
+[14] Thinking realistically about whether or not this could really happen.  Very scary to think about.
+[15] It helped me see all the things that would be affected and how devastating the impact would be to me personally.
+[16] Just the thought of it possibly happening in the future was quite chilling.
+[17] I never gave it much thought, but now...pretending it happened and realizing what it was going to impact actually gave me a little panic attack.  I (we!) have got to be prepared.  But how when everything is automated these days.
+[18] I have read novels  about this issue...it was a reminder of how easily could happen and how scary/horrible it could be!!!
+[19] It made me realize how much I rely on infrastructure and technology. I realized how much I would be affected.
+[20] The story put cybersecurity into perspective, it resonated as I take for granted all of the functions that could be lost if an attack happened
+
+Topic 2 | N = 28
+Label: think / situation / happen / like
+Keywords: think, situation, happen, like, just, writing, really, thinking
+------------------------------------------------------------
+[1] It made me think about what it would be like.
+[2] Made me visualize what would happen in that situation.
+[3] It made it real, and made me think what id do in the situation, and what would happen in the world if it happened
+[4] It made me think about what I would do if something like that happened.
+[5] It gave me the opportunity to picture what could happen and think about what I would do in the situation.
+[6] It made me think about what I would actually do.
+[7] It made me feel like I was in the situation and forced me to think about what I would actually do.
+[8] it made me really imagine what was about to happen
+[9] Just bringing the idea of what could happen to front of mind.
+[10] I made me think more directly about this possibility.
+[11] Made me think of making a plan
+[12] I think it was really the initial AI generated writing prompt that helped personalize and make me envision how that scenario would actually look in my personal life.
+[13] It just made me realize that something like that could definitely happen.
+[14] Putting me in that situation and forcing me to write the story made me think about how I would react in that specific situation and made me think more deeply about cybersecurity and the importance of it.
+[15] Putting myself in this scenario made it very real to me.  It made it personal to me and I could easily think about what I would do.
+[16] It made me think about what would be affected should this situation happen to me. The writing assistant brought up some really great points and ideas.
+[17] The story writing made me think of what I would have to do if there was a loss of connectivity, and made it feel close to my life thinking of my firends.
+[18] I guess it made me think about what in my life would change if that happened. Though I think that was well laid out in the prompt more so than my own writing.
+[19] Helping me envision how I might approach an extreme and extended emergency.
+[20] Really placed the issue in my shoes, making me realize what an issue it would be if I had to deal with it.
+
+Topic 3 | N = 22
+Label: change / story / attitudes / cybersecurity
+Keywords: change, story, attitudes, cybersecurity, effective, didnt, writing, feel
+------------------------------------------------------------
+[1] It didn't change my attitude towards cybersecurity for satellites. 
+Yes, it was effective in making the topic feel closer to my life
+[2] It did not change my attitude towards cyber.
+[3] I do not think it really changed anything about how I view cybersecurity.
+[4] it didn't change my attitudes on it
+[5] I don't think it changed my attitudes - I was already concerned about the issue.
+[6] I am not sure that any of the story aspects changed my attitudes towards cybersecurity. It was interesting to go through the exercise and see how the AI system helped with the story and how effective that might be with my narrative.
+[7] It didn't really change how I felt. Satellite security is clearly important.
+[8] Nothing in it made me feel that cybersecurity of satellites were closer to my life.
+[9] Writing the story didn't change my attitudes or make it feel closer to my life.
+[10] I didn't change my attitude at all
+[11] Nothing about the story was effective per se. It was more so the actual knowledge of what a cyber attack could affect in my life.
+[12] It wasn't really a topic I considered, so writing the story brought it to mind.
+[13] My attitude didn't really change. They felt closer when I imagined it affecting those around me.
+[14] No aspects were effective in changing my attitudes towards cybersecurity for satellites.  I am still scared of that ever happening and I don't know if I would think as rationally as I did in the story. Writing the story was effective at making the topic feel closer to if it  actually happened in my life.
+[15] My attitudes did not change about cybersecurity. I think sabotage of electronic systems will be an evolving form of warfare.
+[16] None. The story was extremely amateurishly written (I recognize that is partially my fault).
+[17] None because the AI never brought it up.
+[18] The story was mostly about a weather condition. It had little to do with cyberattacks.
+[19] The story I was able to imagine felt very real and possible. However the prompts from the writing tool did not match what I imagined very closely. I think cybersecurity for satellites is extremely relevant. However, due to my disgust with our current leadership and the direction of our country, I'm not sure where to place satellite cybersecurity in the list of priorities.
+[20] I don't think any part of writing the story was effective in making me think about cybersecurity, because I looked at it as if I were writing a story as just to do creative writing. Looking at it like that, while I did use the prompt, I added in my own touch to the base premise and turned it into a drama comedy instead of a serious piece of nonfiction. The idea that the attack on cybersecurity was meant to played off seriously was lost on me, because of how Sci-fi the premise sounded. It was if I was a part of the series "Mr.Robot" than I was dealing with the end of the modern world.
+
+Topic 4 | N = 16
+Label: satellite / everyday / card / writing
+Keywords: satellite, everyday, card, writing, phone, relevant, losing, like
+------------------------------------------------------------
+[1] Writing the story made satellite cybersecurity feel personal by showing how losing phone service, GPS, and card payments could disrupt my daily life.
+[2] Writing the story helped me imagine how losing GPS, banking, phone service, and internet access could disrupt ordinary routines. Connecting the cyberattack to familiar daily activities made satellite cybersecurity feel more concrete and personally relevant
+[3] The story made cybersecurity for satellites feel more relevant because it connected the issue to everyday things like GPS, banking, communication and transportation. Imagining those systems failing made the consequences feel more personal.
+[4] The story made cyber security feel more relevant to my everyday life by showing how losing satellite system could affect communication, transportation, money and my family's safety
+[5] The story made satellite cybersecurity feel more relevant by showing how an attack could affect everyday things like phone calls, GPS, ATMs, card payments, and power  it made me realize that satellite security can have a direct impact on ordinary life
+[6] It showed how satellite attacks could disrupt payments, communication, GPS, and family safety, making the issue feel more personal.
+[7] Writing out a first person scenario grounded the abstract idea of satellite systems into immediate, everyday consequences like failed card payment, loss of phone service and bank outages.
+[8] By writing about particular disruptions that occur on a day-to-day basis, such as failures in payment cards and phone calls that get disconnected, the vulnerability became a very real issue to me personally.
+[9] Writing the story helped personalize the affects of cybersecurity attacks on satellites and make it feels like an issue that is personal and relevant to all of us not just an abstract concept.
+[10] The story helped me see that cyber attacks on satellites can affect things I use every day like GPS and phones. It made me realize that keeping satellites safe is very important for everyone including me because it helps us stay connected and get directions
+[11] focusing on everyday inconveniences like dropped calls and not being able to access online made the issue feel real and immediate.
+[12] Giving specific, real-life relevant examples of how I would/could be impacted, such as text messaging, digital banking, GPS, etc.
+[13] I felt the danger was real and urgent after personalizing the situation to my everyday activities, such as not being able to use GPS for commuting or get access to my bank account. With the aid of the writing assistant's prompts, I was able to articulate particular consequences (such as missing work or failing to connect with family), transforming an abstract risk into concrete interruptions.
+[14] Writing out daily scenarios- like card readers failing, losing phone service, and navigation going dark - made satellite dependency feeling immediately tangible. It showed how deeply routine tasks rely on space-based systems.
+[15] Well I had already thought that cyber security for satellites was very important, long before this survey and have read up on the same frequently. The aspect of writing the story that was most effective was placing myself in a realistic situationWhich could happen at any moment in time, Manifesting in the complete changeIn what toolsAre availableTo meIn my everyday life that helps me to live in, And howUniversally those tools would be removed from my graspTurkey after effects of a satelliteCyber security situation
+[16] Real, Practical Disturbances: By linking the cyberattack to common, mundane activities like shopping for groceries, using a debit card, or dealing with traffic, the idea of satellite infrastructure became immediately real.
+
+Consequences of an Attack in the Real World: Through the demonstration of how one layer of failure (satellite time and GPS) would lead to failures in banking, communications, and basic necessities, it was clear how vulnerable our lives are.
+
+Topic 5 | N = 13
+Label: thought / topic / think / definitely
+Keywords: thought, topic, think, definitely, really, differently, compromised, considered
+------------------------------------------------------------
+[1] I haven't really pondered cybersecurity satellites in the past so it was a bit eye opening.
+[2] I never thought of how this might change daily life before.
+[3] It made me think more about it
+[4] I would say the story made it easier for me to imagine what would happen if satellites were compromised. Honestly, it's not a topic I had thought about much before.
+[5] It definitely made me think more about cybersecurity and satellite security more than I do. Simply because it is always there, we take it for granted.
+[6] writing the story out gave me a perspective I didnt think i had becuase I never thought of this topic before.
+[7] i really never gave it any thought before this exercise. It is definitely a major concern and hs opened up my eyes to the possibility
+[8] Only the fact that I and the app were creating the scenario and that did make me think about the vulnerability that really exists,other than that, I had rarely thought about it
+[9] It did help me see things differently, and I normally don't think about thigns like this, but this time it made me really see things differently.
+[10] It made the possibility feel more real to me. I hadn't considered that funding was needed for this and just assumed it was being handled already.
+[11] I definitely thought about the topic in ways I haven't considered before. I think in the past I was more familiar with the topic when it was framed as "an attack on the national grid"
+[12] I didn't even know cybersecurity for satellites was a thing, so it makes me want to research it and find out more about it.
+[13] I literally haven't given cybersecurity much thought prior to this study. For me it was mostly about compromised passwords not all our chaos in every facet of life.
+
+Topic 6 | N = 13
+Label: life / impact / use / realize
+Keywords: life, impact, use, realize, way, think, aware, affect life
+------------------------------------------------------------
+[1] It made me realize more of what the impacts might be on my life.
+[2] It made me realize the impact cypersecurity has on my life.
+[3] It made me realize how important cybersecurity is and how much it impacts my life.
+[4] I could see how it would impact my life in many ways
+[5] It effectively showed me how that could affect my life in an abstract and indirect but yet very important way
+[6] When it affected how I did my work and my ability to provide for my family.
+[7] It made me realize how vulnerable I really am.
+[8] It helped me to think more deeply about the way I spend and use money and how that would impact the way I carry out my daily responsibilities.
+[9] Making me more aware of what I use in my life that would be effected by this. I didn't think I did, but as I started navigating a night in my life, I realized that a lot of what I use works on these systems.
+[10] Made me more aware of how this can effect me as a whole. And how everyday its not something I think about but could be a reality real quick.
+[11] It definitely made it feel more relevant to me as it is not something that I pay any mind to or think about but having to think about the after effects of it and how it would impact me I can definitely appreciate the importance of it.
+[12] both were affective because one plays off the other seeing how it would affect my life changes attitudes plus makes you feel closer to your everyday life.
+[13] I made me see how vulverable I would be so I do feel differently about the subject.
+
+Topic 7 | N = 13
+Label: cash / hand / having / cards
+Keywords: cash, hand, having, cards, need, just, needing, issue
+------------------------------------------------------------
+[1] It made me realize how important this issue is. I rarely use cash, so the idea of having no access to my phone or my cards to buy food or basic necessities is frightening.
+[2] It did make me realize how much I rely on cards to work. Rarely do I ever have cash on hand.
+[3] Making it very obvious that my habit of never having cash on hand probably isn't a good idea
+[4] It really brought this issue to the forefront of my mind! It made me realize, among other things, how I never keep cash on hand. Yikes!
+[5] The fear of things not working right, needing cash and not being able to get it.
+[6] The impact of having no funds available as I don't carry cash on hand and stores and businesses will probably not be as lenient in the situation. The thought of my loved ones having to struggle and not knowing what could be happening to them definitely takes a toll on my mental well being. Seeing how much the satellites affect and how hard it would be to fix something like that, just the unknown and wanting to know more had a major impact.
+[7] Generally, I was just thinking about how difficult it would be for me to make money since I rely on the internet, and how I don't have any cash and how that would affect me.
+[8] It made me feel like that I need to have more cash on hand
+[9] Feeling helpless with no way to pay for gas and needing to get to my family.
+[10] Just having to imagine my ordinary daily life and the people in it. I had to think about my real routines and the people in my care. I also had to consider how I naturally operate, for example, I almost never have cash on me.
+[11] Just imagining not being able to access my money and literally having to barter for goods. I would hate for that, but I need to be prepared for that. So if satellites truly control ATMS and all phone service then yea, we need to protect them DEARLY.
+[12] the fact that I only had three one dollar bills. This is exactly how it would go down for me.
+[13] An issue with satellites already happened some years ago and it prevented the use of using debit and credit cards and some gas pumps.  I was doing a lot of driving at that time and was glad I carried cash for emergencies.  It will be more of a problem nowadays.
+
+
+================================================================================
+WHAT DID NOT WORK
+================================================================================
+
+Topic 0 | N = 68
+Label: ineffective / think / dont / missed
+Keywords: ineffective, think, dont, missed, dont think, mark, missed mark, really
+------------------------------------------------------------
+[1] i didnt think anything was ineffective
+[2] I found nothing to be ineffective.
+[3] I don't feel there was anything so much ineffective or missed the mark.
+[4] Nothing with regards to writing the story felt ineffective.
+[5] I didn't think anything was ineffective. Writing the story was a bit of a wake up for me
+[6] none I dont think it missed the mark
+[7] There was nothing that was ineffective
+[8] There were no aspects that missed the mark or were ineffective.
+[9] I don't believe there was an aspect that missed the mark.
+[10] I don't think there were any ineffective aspects.
+[11] I don't think there was anything that was ineffective.
+[12] I am not sure of anything was ineffective
+[13] I can't really think of any.
+[14] None, I think the story and how I personalized it put things into perspective
+[15] NOthing was ineffective, it just allowed me to change my perspective a little.
+[16] I am not sure anything was ineffective. It really was effective.
+[17] Nothing in that regard, though there were several prompts I didn't use.
+[18] Nothing about it was ineffective, the prompt was clear and the AI helped me write it.
+[19] It was not ineffective in any of the 2 options.
+[20] I don't think any aspects missed their mark in my story.
+
+Topic 1 | N = 29
+Label: like / feel / feel like / realistic
+Keywords: like, feel, feel like, realistic, scenario, real, actual, felt
+------------------------------------------------------------
+[1] A little routine on actual events that might happen.
+[2] It seemed like an unrealistic story
+[3] The situation just seemed unrealistic for something so serious to be hacked.
+[4] Making the topic feel more realistic, as it has never happened on a big scale before.
+[5] It didn't really feel like something that could actually happen to me.
+[6] a lot would have to go wrong for the consequences to occur
+[7] Give more details about how things would be ffected large scale
+[8] It is probably ineffective in predicting the level of impact a cybersecurity attack might have or how events may continue if it was an ongoing threat.
+[9] The scenario felt somewhat exaggerated and hypothetical, so it did not strongly change my attitude.
+[10] It did not grasp the panic and behavior of others and the chaos that would bring
+[11] The scenario seemed a little contrived and I'm not convinced it would play out like that in real life.
+[12] Some of the suggestion felt more like making the situation dramatic than talking about the actual risk of the cyber attack.
+[13] Fortunately, I think the likelihood of it actually happening is low.
+[14] I think a creative writing prompt made it more feel like a science fiction doomsday event than a reality
+[15] I think writing the story hit close to home. With AI slowly becoming more and more prevalent, the chance of systems like this being disrupted or hacked seems realistic.
+[16] not a lot i felt that this would be a threat to all of us. this would be a huge deal that could have disatarous consequences
+[17] The scenario still seemed a bit far-fetched because it presumed the entire system would collapse, which appears excessive. Failures that were more localized or gradual may have seemed more realistic and approachable. Additionally, the emphasis on financial transactions and logistics overshadowed emotional and social effects, bringing it closer to reality.
+[18] The scenario still felt a bit detached since I've never experienced a major system collapse firsthand.
+[19] The story was a bit too doomsday to be believable. Things would be bad, but it wouldn't fall apart within hours.
+[20] Maybe exploring it further. What if it lasted for weeks.
+
+Topic 2 | N = 24
+Label: ai / suggestions / write / tool
+Keywords: ai, suggestions, write, tool, times, did, suggestion, used
+------------------------------------------------------------
+[1] The suggestions did not always match up with my thoughts.
+[2] Some of the suggestions does not match my writing
+[3] The AI suggestions occasionally broke my train of thought while trying to write.
+[4] The AI assistant's suggestions did not always feel authentic or like something I would say or do.
+[5] Mainly it was some of the AI generated additions. At times they felt too generic or in some cases, unrelated to what I was trying to write.
+[6] The writing tool could be distracting at times
+[7] The predictive text wasn't always the best.
+[8] The assistant felt random at times.
+[9] The tool starting to make random nonsesical suggestions
+[10] The constant prompting from the system to let it write for a spell.
+[11] some of the AI responses were random and not relevant
+[12] A lot of the time when I used the ai the ai wasn't on the same wavelength as me. They auto filled something that wasn't even on my mind and I had to fidget with it a bit to point it in the right direction to get it to give me a good suggestion. I also didn't want to spend too much on cyber security since I think we still have bigger problems in society than satellite security but it was still important to fund satellite security to keep society functioning well.
+[13] The prompts given did not fit my writing style. I adjusted them to be closer to how I write.
+[14] I felt like the AI still needs improvement because it seemed to struggle to form complete thoughts or dragged out sentences far too long on its own, so I had to edit a lot.
+[15] The phrases that were AI generated did not sound like my writing and so I had to adjust the phrases.  It did not affect how I feel about cybersecurity however.
+[16] It would take my sentences a different direction than i was intending a couple times.
+[17] I already noted...assistant ideas were too calm...but maybe had to o with my poor leads...although assistant seemed only to "have" calm suggestions...so I finally picked
+[18] I thought the AI could have been a little more creative or silly with their responses. Felt very ordinary and not creative. I was prepared to come up with something superhero like.
+[19] I think some of the suggestions didnt follow the natural flow of the story but I like the fact that you can scroll through suggestions
+[20] It kind of drifted off from what I was thinking, focusing on things that didn't matter
+
+Topic 3 | N = 19
+Label: satellites / cybersecurity / cybersecurity satellites / security
+Keywords: satellites, cybersecurity, cybersecurity satellites, security, attitudes, maybe, feel, news
+------------------------------------------------------------
+[1] Changing my attitudes towards cybersecurity for satellites
+[2] Changing my attitudes towards cybersecurity for satellites
+[3] Making the topic of cybersecurity for satellites feel closer to your life
+[4] It make it more close and how important it is.
+[5] I think it made cyber security more reliant to today.
+[6] Maybe missing a bit of focus on what cybersecurity for satellites actually looks like in practice so I could understand it more.
+[7] That the government will be working on resolving it
+[8] makes it feel like it would work
+[9] Making me feel any kind of personal investment in national security.
+[10] Some technical details felt less personal and harder to relate to.
+[11] It did increase my attitudes toward cybersecurity because there is so much that we take for granted that could be at risk because of current standards.
+[12] having my daughter come see me
+[13] All aspects of the story helped change my attitude in understanding how important cyber security is.
+[14] I think I might have liked to learn more about satellites because I don't know a lot of concrete info about them. I mean, instead of writing a scenario to feel about them, I might like to learn intellectually about the risk.
+[15] I realize I am totally dependent on the internet.
+[16] Maybe I would have liked to know more about how vulnerable it really is, what all hackers needed to do exactly that would wipe everything out and how easy that would be for them vs what we have for security right now.
+[17] The realization that we could survive without this technology if we absolutely needed to.
+[18] feel powerless to do something about it. do not see the issue of satellite cybersecurity raised at all in the news. more hacking of power stations via the internet recently
+[19] I am not sure. Maybe a small news statement about satellites in general, how there are SO many floating around constantly, and the brevity of such an attack, like, what it takes to be able to do such a thing.
+
+Topic 4 | N = 13
+Label: technical / focused / difficult / satellite
+Keywords: technical, focused, difficult, satellite, satellite cybersecurity, understand, details, story
+------------------------------------------------------------
+[1] The story focused on personal difficulties but did not explain how satellite cybersecurity works or how attacks could be prevented.
+[2] the story didnt get deep enough into the issues
+[3] Some of the technical details about the attack were difficult to understand, and the story could have explained the cybersecurity risk in simpler terms
+[4] The scenario was interesting, but it was difficult to understand the technical side of satellite cybersecurity. The story focused more on the immediate inconvenience of losing services than on how satellite cybersecurity itself could be improved.
+[5] It was not enough time to get a full idea.
+[6] The story was effective overall, but it could have provided more specific details about how the attack happened and what could be done to prevent or recover from it
+[7] Writing the story still did not provide enough background information to make me understand how this could lead to all of the problems noted at once.
+[8] The creative exercise focused mostly on the immediate personal inconvenience rather than the technical or high level details of how satellite networks operate or are secured.
+[9] Focusing on only one topic such as the payment system being down was ineffective.
+[10] there was no real reason behind the attack or motivation mentioned. that would have made me think about it deeper.
+[11] Maybe it could have been worse. I didn't get far enough to find out if anyone died.
+[12] Scale and Abstractness: It is, after all, because of the fact that the root cause of this issue has been technical in nature that the event can seem somewhat abstract or difficult to envision compared to other physical events.
+
+Normalization: When writing a creative story on this topic, a blackout that lasts for several days may be described in such a way as to make it seem like something that could be summarized easily.
+[13] It was still a very vague set-up. It didn't say who initiated the attacks or how we would in fact know that that was the case given that everything just went down. Most reactions to stuff like this by government is 'Oh, well we need to fix that now'. Government is hardly ever preventative of infrastructure they are more on a need to do basis. I'm not sure I've ever seen this topic brought up by a politician before other than one already in power.
+
+Topic 5 | N = 12
+Label: story / suggestions / ai / brought
+Keywords: story, suggestions, ai, brought, little, took, narrative, kept
+------------------------------------------------------------
+[1] The stuff that the AI kept trying to add made it feel just like some general story and not my story. It made me feel disconnected and a little annoyed, if anything.
+[2] The system's suggestions kind of tended to drag the story off in directions that were somewhat less relatable to me.
+[3] Some of the offered writing suggestions from the AI seemed to derail the story flow, offering suggestions that just didn't make sense for the situation. It felt like at times that it was just throwing out flowery language somewhat associated withe the main even, but not really about the specific story that was being written.
+[4] The aspects of writing the story that were ineffective was that sometimes the AI missed the mark and took the story in a different direction.   I had to take a step back and change direction with either a new prompt or a change in verbiage.  This made the topic of cybersecurity for satellites feel less connected to my daily life.
+[5] I felt that the AI took over the story writing duties and prevented me from being able to tell my personal story.
+[6] The AI kept trying to direct the story in ways I was not really inviting. I had to resist that a lot. And the AI's suggestions did little to inform me about cybersecurity. Most of what it suggested was irrelevant.
+[7] The suggestions that the AI offered were often grammatically incorrect or veered the story off in a weird direction. It didn't do a good job at following a plot but instead seemed to suggest sentences that had nothing to do with the narrative thread I was currently weaving. Also, I found it a bit creepy that the AI tried to "personalize" the starting point of the narrative by making suggestions about my spouse's gender (it got it wrong) and the nearest city/town to me (correct, but just felt creepy that it harvested that data).
+[8] The AI suggestions simply added more detail instead of really adding more to the plot of the story.
+[9] The assistant was a little annoying and kept focusing on weird details. I had to guide it to make it relevant to my life in order to make the story feel more real.
+[10] I think it was a little strange with some of the words popping up to stay on my own story that I had in my head. It was changing how I felt about my own story.
+[11] The story did try to put information about my mom in there several times, but my mom has been dead for over a decade so that was a bit distracting.
+[12] The story had me calling my aunt, but she died last winter, so that brought me out of the story a bit.  Also, I'm a low-carb guy, so I'm not sure why I'd be buying bread.  Because these specifics were brought into the narrative, it took me out, but I still understood how the story could be brought into a personal perspective.

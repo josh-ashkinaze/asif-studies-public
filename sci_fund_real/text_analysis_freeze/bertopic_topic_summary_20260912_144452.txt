@@ -1,0 +1,396 @@
+
+================================================================================
+SWEEP Default (min_cluster=12, min_samples=3, neighbors=15)
+================================================================================
+
+
+================================================================================
+WHAT WORKED
+================================================================================
+
+Topic 0 | N = 60
+Label: funding / science / science funding / need
+Keywords: funding, science, science funding, need, important, scientific, research, people
+------------------------------------------------------------
+[1] How to improve science funding as it plays a major role in research and health issues.
+[2] Changing your attitudes towards science funding
+[3] Making the problem of science funding feel closer to my life.
+[4] '- Changing your attitudes towards science funding
+[5] Making the problem science funding feel closer to your own life.
+[6] I feel closer to the effects of the absence of science funding.
+[7] Making the problem science funding feel closer to your own life
+[8] Changing your attitudes towards science funding 
+Making the problem science funding feel closer to your own life
+[9] Imaging how reduced funding could have a personal impact.
+[10] The different problems I could experience in case science funding was cut.
+[11] I feel more positive about the science funding.
+[12] It made me realize how science funding can directly affect my healthcare.
+[13] The aspect of bring the issues of science funding closer to an health issue that is so important to me changed my attitue towards science funding.  Using a scenrio with that I would actually experience
+[14] It definitely showed me that scientific funding is truly important in everyone's lives
+[15] Thinking more funding could create cures for people like me.
+[16] How does it affect the average person.
+[17] My attitude towards science funding changed becuase there is such a need in the field, which in effect causes limitations elsewhere.
+[18] I realized how science funding helped fast track specialist attending to patients and how that funding better manty people's life.
+[19] The fact that funding directly impacts the medical treatments I may require makes the problem of funding science closer to my life.
+[20] I have always believed we need more funding for science. Without it, I wouldn't have the health I have today.
+
+Topic 1 | N = 58
+Label: story / personal / writing / life
+Keywords: story, personal, writing, life, real, imagine, helped, like
+------------------------------------------------------------
+[1] Picturing how I the situation was affecting me.
+[2] Having to contemplate a real-life scenario for myself made it personal and, thus, more effective.
+[3] It made me imagine what it could be like in a medical situation.  It made the issue more personal.
+[4] Writing the story made the problem of science funding more applicable to my own life.
+[5] Writing the story helped me see how science funding could actually affect me. Imagining real examples made the issue feel closer to my life and more important.
+[6] It helped me immerse in the experience more and envision how the cuts in science funding were affecting me directly.
+[7] trying to imagine being in that situation and having to express myself.
+[8] It helped to visualize what could happen to I me in a situation like that. Continuing funding felt important.
+[9] It made me feel what could happen if this situation were real. It was effective in putting me in the shoes so to speak of a person with that struggle.
+[10] I could imagine going through something like this and how it would affect me.
+[11] It makes the idea of scientific funding take on a personal level in my life. Most of the time, this sort of funding feels entirely separated from my day to day life. Creating a story about something that I could easily relate to was effective.
+[12] I placed myself in the story, so it felt much more relatable to my personal life experience.
+[13] I've already been somewhat concerned about science funding of late, so writing a "personal" story about how it might affect me personally kind of brought it home, so to speak.
+[14] It helped me envision what that reality would feel like and how I might feel were it real.
+[15] It felt like a real life scenario that would happen in my real life.
+[16] It made it more real for me and this made me more aware of how funding affects people and also how it would affect me personally. It took things from my own personal life and included it into the narrative.
+[17] Writing the story helped because it made the situation feel personal, I could picture the stress and delays, which made science funding feel more important to me.
+[18] The aspects of writing the story that were effective in changing my attitudes towards science funding and making the problem science funding feel closer to my own life is the creativity aspect where I had to imagine myself in the situation
+[19] Feeling the effects of what it would be like to be in the scenario
+[20] The mention of funding cuts helped me understand why this scenario was happening. I could imagine how I'd feel if this was actually happening to me.
+
+Topic 2 | N = 56
+Label: appointment / wait / months / 14
+Keywords: appointment, wait, months, 14, 14 months, long, medical, time
+------------------------------------------------------------
+[1] The long wait for an appointment
+[2] The long wait time for appointment and my worsening condition.
+[3] Simply the idea of having to wait 1 year + for an appointment
+[4] The explanations of what aspects of funding effects my ability to get an appointment in a timely manner.
+[5] Unfortunately, I have many doctor's appointments.
+[6] It made me realize how fearful it would be to have to wait so long for a medical appointment. More funding could prevent that.
+[7] the specific funding that led to longer wait times for an appointment.
+[8] It put me in a situation where I had to imagine how cuts in funding affected my life directly by not being able to get an appointment soon enough
+[9] That it affected how long I had to wait to be seen.
+[10] that i was going to have to wait over a year to get a single cancer appointment really made it feel difficult
+[11] The long wait for a schedule to be treated.
+[12] the time it takes to get a appointment
+[13] It made me realize that this could be a real issue.  I know that sometimes it is hard to get an appointment with a medical specialist.
+[14] I could easily visualize the scenario, as making appointments with specialists is difficult enough without them also being affected by funding limitations that cause delays in patients being seen.
+[15] it made it personal-that not getting seen by the doctor was negatively affecting my current condition
+[16] How the reduced funding could impact getting an appointment with a specialist you might need to see, especially since my wife and i regularly have to see specialists for care
+[17] The amount of time it takes for someone in need to get an appointment with a specialist.
+[18] Hearing about the impact that cuts in science funder have on doctor appointments is eye opening, and hits close to home.
+[19] making appointments for some DR can be very difficult, so that is very relevant to me
+[20] The explanation of how the lack in funding contributed to longer waits times.
+
+Topic 3 | N = 32
+Label: affect / really / lack / funding
+Keywords: affect, really, lack, funding, funding affect, lack funding, personally, gave
+------------------------------------------------------------
+[1] It sort of opened my eyes to how lack of science funding could affect me.
+[2] Helped me understand how the lack of funding can affect me personally.
+[3] It made me reflect on how it would affect me personally.
+[4] It definitely made me think more about the lack of funding and how it could affect my future.
+[5] It made me think more deeply about how I would be affected.
+[6] Thinking about what could happen and how it could affect my life was effective.
+[7] It made me feel that some of my issues are not all that fanthom and so reducing the funding can affect me hugely
+[8] the part where it showed me clearly how the cutting of funds would affect me personally, and in how many ways
+[9] It made me imagine how cutting the funding can affect people, and it taught me more about why and how it could happen.
+[10] It made me feel that the changing in funding could affect my life because it showed me how it could affect me in a normal everyday situation.
+[11] I made the problem more real and close to home. I am more aware of how it can affect my life.
+[12] I believe that this did change my attitude towards science funding -- made it hit really close to home, especially as I'm getting older.
+[13] it definitely made me realize how important the topic is and how it really does affect you in your life.
+[14] Yes it gave me a vivid picture of how I could be affected by funding.
+[15] It made me look at a scenario that could potentially be reality if science funding was cut. It made me understand what some people would go through and gave me information that I knew could directly impact me in the future if the scenario came about.
+[16] It made me really consider how scientific funding could affect me, I had never really thought about how training costs correlated to availability
+[17] After this, I see why lack of funding would have a ripple effect on me. It definitely made the lack of funding feel more close to home.
+[18] The story really put it into perspective how the lack of science funding could impact me and this is something I hadn't really thought of before. This impact would be crucial for me and really anyone and it is not often talked about.
+[19] I have always cared about science funding since I am a scientist by training. However, this helped me feel more emotional closeness to the potential impacts of scientific funding cuts, other than just losing my job, which is already pretty important to me. I think this made me think of others too, how this would negatively impact health outcomes across the country.
+[20] Seeing how it made availability of services unavailable in my daily life made it clear how important it is. It feels closer to me now because I realize how much the lack of funding can inconvenience the average person like me.
+
+Topic 4 | N = 20
+Label: funding / story / did / attitude
+Keywords: funding, story, did, attitude, scientific funding, science, dont, scientific
+------------------------------------------------------------
+[1] I don't not think that the story changed my attitude towards science funding.
+[2] It wasn't really. I already dislike the idea of cutting science funding.
+[3] My attitude toward science funding was unchanged. I believe this is grossly underfunded.
+[4] It had no effect on my attitudes towards science funding.
+[5] None. It was a hypothetical story; not necessary to make a determination on how I feel about funding in general.
+[6] The writing of the story had no effect on my attitude toward scientific funding, as the corresponding set of issues relevant to scientific funding were not explored (federal taxation, other budget priorities, other potential sources of funding for the missing specialists).
+[7] I think funding scientific funding is extremely important and should not be reduced so writing the story did not change my attitude. Less funding has a negative impact in all our lives in many ways.
+[8] Nothing in the story changed my thoughts about scientific funding. Even if it were well funded the money would likely be squandered on billionaire pet projects, as with everything else our government touches.
+[9] There were no aspects of writing the story that affected me in any way towards science funding. I was trying to hard to figure out whether to keep the AI prompt or ditch it and write something else.
+[10] It really did not have much to do with the funding outisde of the original prompt.
+[11] I don't think that anything was effective in making me feel like the story was closer to my life
+[12] I did not think of science relating to health.
+[13] I don't feel any different about medical funding. I hadn't developed that point in the 6 minutes.
+[14] None of the aspects were effective.
+[15] Nothing. The story didn't feel real in any way.
+[16] Not really. it didnt change my mind at all.
+[17] Writing the story honestly did not have a big effect on these areas at all.   This was sort of a distraction.
+[18] Truthfully, the AI did not guide the story in that direction so we never got around to adding it.  So not much.
+[19] I had no change in my attitude toward Federal funding.  The circumstances in my story were wildly inflated.  Further, if there was evidence current and past funding was properly used without a political agenda I would be more sympathetic to the cause.
+[20] I am not sure the scenario was accurate as regards to science funding and the lack of specialists. While it clearly states funding is an important aspect I thought the management of raises funds by the American Medical Associates is lacking and contributes greatly to the problem
+
+Topic 5 | N = 18
+Label: feel / issue / real / writing
+Keywords: feel, issue, real, writing, issue feel, personal, funding, health
+------------------------------------------------------------
+[1] Writing the story helped me imagine a real-life situation where reduced science funding directly affected healthcare access. Thinking about long wait times for an oncologist and how fatigue disrupted my routine made the issue feel more personal and relevant to daily life.
+[2] Writing the story helped because I had to imagine how a long wait for a doctor would affect my health and daily life. It made the issue feel more personal and real.
+[3] Writing about a personal health situation made the issue of science funding feel more real and relatable. Imagining long wait times and daily struggles helped connect funding cuts to real-life consequences.
+[4] '-Writing the story showed me how funding cuts can directly affect people’s health, which made the issue feel more real.
+-Including my wife and daughter and imagining daily struggles made the problem feel personal and relevant to my life.
+[5] Writing the story made the funding cuts feel real because I could imagine how it affected my health and everyday life.
+[6] Writing the story made the impact of science funding feel real because I could imagine how longer wait times directly affected my health and daily life.
+[7] Imagining a real situation like waiting 14 months for care made the issue feel personal and real. Writing about how it affected my daily life, like work and stress, helped me see how science funding directly impacts people.
+[8] Writing the story in a personal, first person perspective made the situation feel more real and emotionally impactful. Focusing on everyday moments, like struggling to concentrate at work or relax at home, helped connect the issue of reduced science funding to real life consequences. The long wait time for care made the impact feel urgent and showed how funding decisions can directly affect access to mental health support, which made the issue feel closer and more relevant to my own life.
+[9] Writing the story made me more aware of the personal impact of the situation. By imagining myself as a nurse dealing with the consequences of reduced science funding, I could see how delays in access to specialists and advancements in medical care would directly affect my patients and my work. This made me appreciate how critical continuous funding is to the healthcare system.
+[10] By incorporating personal experiences, such as dealing with health issues, the story made the implications of science funding more relatable. This connection can evoke empathy and understanding from readers who may not have considered the impact of funding cuts before
+[11] Imagining a specific situation where I needed care but couldn’t get an appointment made the issue feel more real. Writing about how it would affect my work, focus, and daily routines helped connect science funding to something personal instead of it just feeling like a policy issue.
+[12] Tying the story to a real life example of how funding cuts delay needed medical services was very effective at making it feel close to life. I could imagine the frustration of having to wait longer.
+[13] The story writing was effective in changing my attitude toward science funding because it is very essential for health care and treatment. The story writing was effective in making the problem of science funding feel closer to my own life because I am human and have a family health history of conditions that will concern me sooner rather than later.
+[14] Writing in the first person made the situation feel personal and immediate, especially imagining my own health declining while waiting for care.
+[15] Having to put myself into the shoes of someone going through their day in pain because of having to wait for a specialist due to funding being decreased really makes it feel like a pertinent issue in my life. I do have joint issues, and my fingers and wrists among other joints are often in pain. So it was easy to relate and imagine myself in the scenario.
+[16] The impression of the effect of funding cuts was more immediate when the author wrote in the first person and the problem seemed close and real when the author imagined having chest pain.
+[17] The part of the story where I was unable to do normal tasks without feeling pain was effective in changing my attitude towards NIH funding. Being unable to relax like normal also contributed to my opinion of the importance of scientific funding.
+[18] Quantifiable Loss: (Using specific numbers) dropping from 20 fellows to 12 makes the impact of the funding cut feel objective and measurable rather than just a vague complaint.
+Tactile Sensory Details: Describing how the skin feels "different" and "delicate" under the fingers makes the medical issue feel intimate. It forces the reader to imagine their own skin and the anxiety of a condition progressing while they are stuck on a waitlist.
+
+Topic 6 | N = 16
+Label: felt / situation / feel / id
+Keywords: felt, situation, feel, id, unable, anxiety, having, doctor
+------------------------------------------------------------
+[1] I felt as if I was living the experience. It was a bit stressful to imagine, because I know it's realistic having to wait that long to get help.
+[2] It made me feel like what was happening was really affecting me personally, as if I was going to die of cancer before things got better.
+[3] I think feeling myself in a situation where the impact would be clearly felt and frustrating.
+[4] I could imagine myself hitting that brick wall with trying to get a necessary medical appointment. I felt exposed to the potential of being put in that position, which made me feel anxious while actually writing the story. It made my mind drift to my family.
+[5] I was able to envision how stressed I'd feel if I had a current, painful problem but was unable to get attention for many weeks. I felt rising anxiety as I tried to develop a plan to mitigate the pain at home.
+[6] I felt that it was totally effecting my own life in that I was suffering and unable to find a solution, so that everyday went by while I seemed to be on hold.
+[7] It made me think of my own life situation and feel real grief and fear. I was shaking while writing it. If I couldn't get to a doctor, I'd be panicking and calling every doctor I could.
+[8] It felt real! It was the fact that I was being put directly in the situation, making the call, hearing the wait time, and realizing I'd have to live with the issue longer than expected. That moment made it personal instead of abstract, especially thinking about how it could affect my health and daily routine.
+[9] It required me to focus on a situation that concerns me. I have already been through some recent health scares, and navigating the system wasn't easy. I'm worried about it getting worse.
+[10] It's a scary thought to be the protagonist of a story that causes you to face your own mortality, especially when the possibility of treatment is just out of reach due to funding issues.
+[11] It made me realize how frustrating that scenario would be and how much it would disrupt my life to have to wait that long for answers.
+[12] I could feel the tension of the phone call and the reality of what the receptionist was saying to me. I have been in a closely related situation before so it was very real. I have been unable to get into a doctor for a year before.
+[13] I felt it was very effective, in my imagination of having to wait over 30 minutes for someone to answer a phone call, while having a migraine was very vivid for me to understand the problem with not having enough funding. I could almost feel how painful this experience would be for myself, which I believe made it extremely effective.
+[14] I felt the annoyance as I was writing... I could see how lonely and tiring the waiting was.
+[15] The delayed meeting with the oncologist was frightening.  Although I am not in that situation at this time, I fear that there are many who are going through this.  I also have the connections and resources to, hopefully, avoid this situation, but I worry about others who do not have these things.
+[16] It made me really stop to consider if I were to encounter a health issue like this (which is already a huge anxiety of mine!) how I would feel and what I would do in this scenario. I could really see how tiring and frustrating it would feel to be in this situation and how hard it could make day-to-day life. It definitely increased my anxiety because it felt scary to picture myself in this situation. It also made me grateful for the good health I do currently have which allows me to live my life and go about my daily routines with good energy. All of that being said, it makes me appreciate the high need for scientific funding and that this could potentially impact each and every one of us.
+
+Topic 7 | N = 13
+Label: ai / tool / continue / effective
+Keywords: ai, tool, continue, effective, able, relevant, response, responses
+------------------------------------------------------------
+[1] The AI was able to comprehensibly continue my statements
+[2] The responses after I typed a couple of words were effective and captured what I was trying to say.
+[3] How i got help from the ai tool
+[4] When it provided statistics that were relevant to my situation.
+[5] It seemed to read my mind!
+[6] An aspect that made it more effective was how personalized the AI results were when I needed it to finish my sentence.
+[7] in predicting what i was thinking and about to type
+[8] It was very interesting and exciting.
+[9] when i was writing it was giving me suggestions to add to the conversation, which is less typing for me
+[10] I enjoyed using the writing tool, but had no problem typing in my own words instead of the suggested content, when the timing seemed to fit.
+[11] The effective part of the story was the response of person answering the phone.
+[12] When I was able to start a sentence with my thought, or a key descriptor, the sentences were mostly on target.
+[13] Finding ways to continue the narrative when I didn't have something relevant to add
+
+
+================================================================================
+WHAT DID NOT WORK
+================================================================================
+
+Topic 0 | N = 67
+Label: ineffective / effective / think / really
+Keywords: ineffective, effective, think, really, dont think, dont, missed mark, missed
+------------------------------------------------------------
+[1] I don't think it was ineffective
+[2] nothing comes to mind for me in this. it wasn't really ineffective
+[3] I did not see anything that was ineffective
+[4] None of the aspects of the story were ineffective
+[5] Nothing was ineffective in this way.
+[6] I won't say anything was ineffective.
+[7] I can't think of anything that was infeffective.
+[8] Nothing about it was ineffective either.
+[9] Nothing.  It gave me prompt that were effective.
+[10] There really were none that were ineffective.
+[11] It was all effective for me.
+[12] There was nothing ineffective of writing the story for me.
+[13] None of these options of the writing were ineffective.
+[14] I am not sure what is being asked. I did not feel like it was ineffective at all.
+[15] Nothing was ineffective, this was a good exercise to be brought to life and expose these impacts of funding or lack of
+[16] none, they were all pretty effective
+[17] I don't think anything really missed the mark to me.
+[18] I really didn't think any part of it was ineffective.
+[19] I think there were no places where the AI was ineffective this time around
+[20] Nothing was ineffective with the writing. The AI was an issue.
+
+Topic 1 | N = 46
+Label: story / didnt / writing / wanted
+Keywords: story, didnt, writing, wanted, things, suggestions, ai, details
+------------------------------------------------------------
+[1] The AI was way off and made it hard to commit to the story
+[2] I couldn't finish writing the story.
+[3] Sometimes I felt like I couldn't relate personally to this story in its entirety.
+[4] some of the writing suggestions were not where I was trying to go with the story.
+[5] There was anything about the story that was ineffective.
+[6] The aspects of writing the story that were ineffective were that sometimes the AI assistant was slow
+[7] Using the platform itself was a bit challenging and that distracted me some from the storyline.
+[8] Nothing was ineffective. I do think it was difficult to navigate how the ai blocked my editing of the story
+[9] It sort of made the story up for me.  I didn't necessarily like that it was making suggestions of my ideas.
+[10] the story felt abit unclear and lacked strong emotional impact
+[11] The story felt personal, but near the end the AI seemed to be trying to make it a more generic story with mundane details.
+[12] Some of the sentences were not what I wanted to express. They were not personal to me.
+[13] I did not find any aspects of writing the story that were ineffective. It sometimes took a couple of tries to work with the AI helper to finish a sentence the way I wanted it.
+[14] I felt like the story was too dramatic and not realistic for me personally. The story didn't progress how I wanted it to, which made me feel frustrated.
+[15] The AI model was finishing sentences faster than I could get my own thoughts into the story.
+[16] The extra detail the story seemed to lean into about more mundane things.
+[17] I felt the assistant maybe provided too much detail for the story, perhaps shorter suggestions to really make me think about what to write next instead of being able to push left tab to complete full sentences
+[18] Having to change things from the AI caused me to lose concentration, which hindered the subject matter from making as much of an impact.
+[19] I think the AI assistant was a little pushy, and that sort of distracted from the main premise of the story.
+[20] I don't like the chatbot writing it for me as I go. It distracted my thoughts. If I wanted help in phrasing a story, it would be better if I asked it to do so.
+
+Topic 2 | N = 39
+Label: funding / science / science funding / important
+Keywords: funding, science, science funding, important, really, scientific, know, feel
+------------------------------------------------------------
+[1] i already thought science funding was important
+[2] The cutting of science funding program
+[3] Changing the attitude towards science funding.
+[4] About how to help make a systematic change.
+[5] I didnt really experience an ineffective method
+[6] The fact that there had been a cut in the budget.
+[7] I'm really not sure how to answer this question.
+[8] None, I felt there is truly a problem that needed to be addressed
+[9] I am not sure at this point.
+[10] Making the problem science funding feel closer to your own life
+[11] Making the problem science funding feel closer to your own life
+[12] Ineffective in really showing how science funding would personally effect me.
+[13] Changing your attitudes towards science funding
+Making the problem science funding feel closer to your own life
+[14] none-it brought home the adverse reactions of mine
+[15] Science funding plays an important role in health advancement and discovery of more effective way for medical solutions.
+[16] None. I think that there should be more funding for scientific research.
+[17] I don't think I experienced this!
+[18] The fact that there was time limit I felt I was cut along the way.
+[19] I believe the writing did not reflect on why the funding was so lacking and could have commented on what I believe is an issue.
+[20] i am supportive of scientific funding prior to taking this survey, even more-so after
+
+Topic 3 | N = 36
+Label: funding / attitude / change / science funding
+Keywords: funding, attitude, change, science funding, science, didnt, attitude science, writing
+------------------------------------------------------------
+[1] No aspects of writing the story changed my attitude toward science funding.
+[2] The story, as a whole,  didn't really change my attitude towards science funding.
+[3] None of the aspects were ineffective or missed the mark to change my attitude towards science funding.
+[4] I could not identify any factors that were ineffective in changing my attitudes towards science funding.
+[5] no aspects of writing the story were ineffective in either changing my attitude towards science funding, or making the problem feel closer to my own life
+[6] i did not feel that it helped change my mind at all
+[7] My attitude towards science funding did not change.
+[8] I don't think there was anything about writing the story that didn't affect my attitude toward science funding.
+[9] There were no aspects of writing the story that were ineffective about changing my attitude about science funding, because I didn't have much of an opinion about it prior to beginning the exercise.
+[10] I already felt like cuts to science funding were bad for us so it didn't change my opinion
+[11] Nothing in the story writing process really addressed this in a way that changed my attitudes or feelings.
+[12] this didn't really change anything for me in the sense of it being ineffective.
+[13] I do not feel that there was really anything *to* necessarily change my mind about scientific funding. It felt more like a local issue, rather than a national issue.
+[14] It would be ineffective because I did not need to be convinced about either funding or how it affects my life.
+[15] No aspects of the story made me feel that science funding was irrelevant to me.
+[16] Writing the story didn't change my attitude much because I already had an opnion on science funding. Some parts felt a bit abstract, so it didn't always make the issue feel very personal or connected to my own life.
+[17] I already feel that science funding is important. I didn't need this exercise for that.
+[18] I wouldn't say it changed my attitude toward funding. It did feel a little impersonal because it was half my thoughts and half the assistants
+[19] I think the part where I compared my situation to other shoppers was somewhat ineffective in changing my opinion towards scientific funding.
+[20] AI didn't focus on science funding at all. So, my attitude is still the same.
+
+Topic 4 | N = 29
+Label: wait / time / long / wait time
+Keywords: wait, time, long, wait time, funding, healthcare, appointment, specialist
+------------------------------------------------------------
+[1] The story did not seem to be realistic in a 14 month wait time to see a specialist.
+[2] Again, I think it was maybe a tad unrealistic to see scientific funding directly causing long wait times.
+[3] Addressing the other apsects that could lead to long wait times might have been a little helpful.
+[4] The wait time seemed exceptionally long in relation with the "problems" I was having in the story.
+[5] There could have been more AI suggestions about funding, such as the person on the phone at the doctor's office saying something like "Due to funding lapses, appointments are taking longer."
+[6] While a lack of provider availability could impact me and affect my ability to quickly see a provider, it's unlikely that as an existing patient, my wait time would suddenly increase to the 14 months in the story. My belief that science needs to be funded did not change.
+[7] When the AI would keep saying the wait times, I felt like it was just hammering home the weeks of waiting. I decided to go international.
+[8] I think the bot took too long to give me accurate ideas
+[9] My attitude towards having to wait 14 months was harder to express as that is way too long. So the problem with science funding is very close to my life.
+[10] Changes quite a bit, we shouldnt have to wait that long for appointments and funding is what they work with,
+[11] it would seem that a person could just select another doctor or clinic to get seen
+[12] For my specific challenge the time frame wasn't realistic.  No one is waiting to see an addiction therapist for over a year due to funding cuts reducing the supply of professionals.  A person might not get access due to affordability but that is a separate conversation.
+[13] I don't think writing the story was ineffective towards changing my attitude. Although the thought of waiting over a year for an appointment with a specialist was unsettling to say the least.
+[14] I would not wait 14 months dealing with my mental health
+[15] None at all. I have had to wait a period of time for an appointment before.
+[16] 14 months for a wait time across all places seemed unrealistic, no matter the scenario, especially in life or death situations like cancer.
+[17] Overall, there was nothing about writing the story that would have been ineffective in changing attitudes towards science funding. Rather, the study focused on total wait time of 14 months. Additionally, there are other variables that the funding of scientific studies might influence. For example, lack of scientific studies might affect the safety and efficacy of routes of action taken to solve healthcare problems.
+[18] Finding the therapist the first time and I could not be seen until 6 months later
+[19] The answer to this question is the same as to the previous question:
+Writing the story had no effect in changing my attitudes towards scientific funding. My actual life experience in this situation was, in contacts with three different medical centers, appointment availability ranged from nine to eighteen months. This was not due to funding cuts but because I needed a neurologist; neurology is not a "popular" specialty and fewer medical school graduates choose to go into neurology than other specialties such as cardiology, surgery  or obstetrics.
+[20] The training bit did not change my attitude.  Why is the NIH funding training people?  Also, waiting 14 months for any kind of doctor appointment is just stupid!!!
+
+Topic 5 | N = 28
+Label: ai / suggestions / repetitive / ai suggestions
+Keywords: ai, suggestions, repetitive, ai suggestions, bit, prompt, kept, information
+------------------------------------------------------------
+[1] The suggestions by the AI sometimes felt a bit generic.
+[2] The situation seemed distant and vague
+[3] I think the AI made some repetitive suggestions that were already in the prompt.
+[4] Focusing too much on the AI bot that did not really work
+[5] The ai writing prompt felt very repetitive so it was hard to grasp the reality of the situation
+[6] the suggestions became repetitive and trite
+[7] I feel like the ai suggestions were sometimes a bit silly
+[8] Some of the AI suggestions were not in alignment with my train of thought, making it more ineffective.
+[9] Repeated the same sentences that was in the scenario
+[10] the back story, the adjoining parts.
+[11] The whole exercise felt contrived and irrelevant.
+[12] The language was a bit too formal at times.
+[13] the article was too strung out
+[14] It keep repeating sceneros that I didn't want to go over again with.
+[15] The suggestions of the AI were narrowly focused on just feelings of the original prompt rather than my own inclination which was to find a way to resolve the problem.
+[16] i dont know but it kept repeating the same thing over and over again
+[17] The agent can be a bit repetitive, and does not know all the details of my life.
+[18] The story seemed to repeat itself, but that is probably due to  how much (or little) I put in the beginning.
+[19] Some of the AI suggestions assumed I would give up or not try harder to solve the problem presented in the scenario, which did not pull me into the scenario as effectively.
+[20] I feel like some of the AI suggestions enabled me to passively complete the task instead of really thinking through how the task would affect me.
+
+Topic 6 | N = 17
+Label: focused / thinking / away / story
+Keywords: focused, thinking, away, story, funding, able, im, overall
+------------------------------------------------------------
+[1] I felt close to the problem, but the funding wasn't a part of the story.
+[2] I felt like we focused a little bit more of the anxiety part rather than why the funding was being cut.
+[3] The story focused mostly on me, so I didn’t get a clear sense of the bigger impact on others or on science overall.
+[4] The story I wrote was more how to solve my own problem, which took my focus away from thinking about the science funding cut.
+[5] Once I the story began developing, I was more focused on science funding in my own life than the overall funding of science.
+[6] Thankfully, I'm not at a dire stage of my condition, but I can imagine how it would feel to have this scenario happen.
+[7] The personal anxiety and the personal health were the central themes of the story, thus it did not address the larger-scale effects of capricious science funding, rendering the problem smaller and less related to the overall societal effects.
+[8] I got carried away with my own life story and focused more on that, thinking about my mother being sick and me getting sick as well.
+[9] I did not find anything to be ineffective. I was actually feeling like I was in the scenario, and became saddened and angry at my predicament.
+[10] I do think I got a little anxious thinking about being sick potentially in the future.
+[11] I think that the situation is effective in making me feel emotional but it also evoked a bit of anger and frustration in me in a way that I didn't really want to imagine that possibility coming true.
+[12] I did not consider the funding as much in the story I wrote. I think the funding being mentioned should be in the story more.
+[13] I think this is just a "me" thing but the story increased my anxiety so a lot of my focus went towards ruminating on the fear of "what if this really happened to me? What if I do get cancer one day?" which prevented me from even getting to the next step of thinking about the scientific funding aspect of things quite as much. I'm now able to think about it more as I'm answering these questions.
+[14] Having had this exact issue, one or two of the "reasons" that it offered seemed insignificant, although I understand that it could be because I have found a way to cope with those types of inconveniences because of my vision loss. I was more concerned about a true medical emergency and not an inconvenience in my life.
+[15] I was very focused on the flow and structure of my writing, so the larger issues related to the topic became secondary in importance.
+[16] Nothing this was so personal to me, of course my poor sweet girl never was on the same treatment long that was able to cure her, and she passed away , but I think she would have died sooner without all the different treatment she was on
+[17] I don't suffer from anything like this at the moment. I am able to work out everyday with no issues and the medication I take for my asthma is readily available and I can see a dr right away if I need to.
+
+Topic 7 | N = 13
+Label: fully / hypothetical / scenario / felt
+Keywords: fully, hypothetical, scenario, felt, impact, healthcare, life, didnt
+------------------------------------------------------------
+[1] Because the scenario was hypothetical and brief, it was harder to fully feel the impact. More detailed examples or personal experiences might make the connection to science funding stronger.
+[2] Some parts still felt hypothetical because I was only imagining the situation rather than experiencing it. Also, focusing on one scenario did not fully show the broader effects of science funding on other areas of life and society.
+[3] What didn’t work as much is that it still felt hypothetical, so it didn’t fully hit like a real experience or show the bigger picture.
+[4] Some parts of the story still felt somewhat hypothetical, which made it harder to fully shift my attitudes toward science funding. The connection between funding cuts and personal impact could have been made more detailed or specific to strengthen the emotional effect.
+[5] It still felt somewhat hypothetical since I wasn’t actually experiencing the situation. The scenario also simplified the issue, so it didn’t fully capture all the factors that affect healthcare access in real life.
+[6] It was still just an imagined situation, so it didnt fully change my opinion. Some parts felt a little distant from my real life.
+[7] The scenario felt a bit too specific and not something I’ve personally experienced, so it wasn’t as emotionally strong. Also, some suggestions from the writing assistant didn’t always match what I wanted to say.
+[8] Because the scenario is hypothetical, it can still feel somewhat exaggerated or unlikely, which makes it harder to fully shift my attitudes
+[9] While the scenario illustrated the consequences of reduced funding, it didn't delve deeply into the broader societal impact or how other areas of science are affected. The focus was mainly on healthcare, so I felt a bit limited in understanding how funding reductions in other scientific areas
+[10] I think what missed the mark a bit was that it still felt like a single moment rather than the full experience. It didn't fully show the long term impact, like how the delay would continue to affect my work, stress levels or quality of life over time.
+[11] It missed the mark on feeling closer to my life, some scenarios were a little out of touch with my personal life but overall a good experience with the task.
+[12] It does not fully explain how EVERY medical office would be affected. Its a small picture to a bigger story but sometimes not every story drawn applies to ever scenario.
+[13] I think that the integration of the science funding cuts being the main cause of this healthcare access issue could have been stronger. I think because the prompt was so successful in making the lack of healthcare access (the wait time increasing multiple-fold) feel real and personal that the cause of the issue did not necessarily feel as immediate or meaningful. I think perhaps the prompt should further underscore the cuts to science funding causing this, and how this is explicitly a political / government issue. I also think that many people might not make the connection that the NIH is a government-funded scientific entity that benefits from science funding by the government. In the prompt, it doesn't feel as immediate / relevant because the impact — the wait time tripling — feels so intense.
