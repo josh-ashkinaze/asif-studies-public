@@ -8,6 +8,13 @@
 \usepackage{float,placeins,lineno,xcolor}
 \usepackage{etoolbox}
 
+\usepackage{draftwatermark}
+\SetWatermarkText{DRAFT: DO NOT DISTRIBUTE}
+\SetWatermarkScale{0.3}
+\SetWatermarkColor[gray]{0.9}
+\SetWatermarkAngle{45}
+
+
 \usepackage{xcolor} % Required for colored text
 \usepackage[normalem]{ulem} % For \sout (strikeout)
 \newcommand{\yubodel}[1]{\textcolor{yubocolor}{\sout{#1}}}
@@ -57,6 +64,8 @@ Stephanie Preston, Eric Gilbert, Ceren Budak\\[0.5em]
 \begin{document}
 \raggedbottom
 \maketitle
+
+
 % \linenumbers
 \begin{abstract}
 Life experiences shape policy attitudes, but we only live one life. Citizens may therefore fail to support policies addressing risks they have never personally experienced. Narratives can make such risks immediate and personal, but personalized stories remain difficult to produce at scale. Here we ask whether AI can make distant scenarios feel concrete by simulating a participant's life as if that scenario occurred. We present the As-If Machine (AIM), a multi-agent system through which people co-write personalized counterfactual narratives---stories about their own lives under different policy futures. In two pre-registered experiments on science funding ($N=1{,}007$) and satellite cybersecurity ($N=894$), we compared personalized co-writing with an expert-written vignette on the same topic and with the same task on an unrelated topic. AIM increased psychological closeness---how close a risk feels to the self---by nearly identical margins in the two domains ($0.36$ and $0.38$ standard deviations against the vignette, $0.80$ and $0.90$ against unrelated writing). AIM increased psychological closeness even among participants with unfavorable views of AI. Effects on policy attitudes were $0.16$ SDs against the vignette and $0.10$ against unrelated writing for science funding, and $0.54$ and $0.67$ SDs, respectively, for satellite cybersecurity. Across $23{,}496$ human--AI autocomplete interactions, participants and the system played distinct roles: AIM supplied concrete detail that grounded the scenario, and participants supplied first-person perspective and emotion. Co-writing with the As-If Machine makes distant policy risks feel close.\end{abstract}
@@ -76,7 +85,7 @@ We developed the As-If Machine (AIM) to overcome this tradeoff. AIM is a multi-a
 
 Making a consequence feel close, however, is not the same as changing what someone thinks should be done about it. Experimental attempts to reduce psychological distance have produced inconsistent downstream effects on attitudes and behavior~\citep{van_valkengoed_psychological_2023,huang_disentangling_2024,langlais_does_2026}. We therefore separate two questions. Can personalized simulation make an unfamiliar consequence feel concrete and personally relevant? And when does that change extend to policy attitudes?
 
-We evaluated AIM in two pre-registered randomized experiments on science funding and satellite cybersecurity. In each study, we compared AIM with (1) an expert-written narrative on the same issue and (2) the same interactive writing system applied to an unrelated topic. These comparisons allow us to benchmark AIM's effects against both conventional narrative persuasion and interactive writing in general. We measured psychological closeness and policy attitudes, and pre-registered analyses by prior issue familiarity.
+We evaluated AIM in two pre-registered randomized experiments on science funding and satellite cybersecurity. In each study, we compared AIM with (1) an expert-written narrative on the same issue and (2) the same interactive writing system applied to an unrelated topic. These comparisons allow us to benchmark AIM's effects against both conventional narrative persuasion and interactive writing in general. We measured psychological closeness and policy attitudes, and analyzed effects by prior issue familiarity.
 
 AIM increased psychological closeness in both studies by nearly identical margins. Its effects on policy attitudes diverged: attitudes changed substantially for satellite cybersecurity, weakly for science funding, and more among participants with less prior familiarity. Across 23,496 human--AI autocomplete interactions, AIM supplied concrete detail while participants supplied perspective and emotion. The results show that AI can help people construct experiences they have never lived and reliably make distant risks feel closer. Whether that closeness changes what people support depends on the domain.
 
@@ -114,7 +123,7 @@ We conducted a pre-registered three-arm experiment on science funding. Most Amer
 
 We recruited adults through Prolific and quota-matched the sample on age, political party, and sex. We randomly assigned participants to AIM ($n=333$), an expert vignette ($n=331$), or an interactive placebo ($n=343$), yielding a final sample of $N=1{,}007$ (see SI \autoref{sec:si-descriptives} for descriptives by arm). AIM participants spent approximately six minutes co-writing a personalized account of delayed care. Vignette participants read a domain-relevant story about a girl whose cancer was cured through CAR-T immunotherapy, designed to encourage support for science and used in prior research~\cite{ophir_effects_2021}. Placebo participants used AIM to write about meeting a celebrity or sounds turning into colors. The vignette controls for demand effects, and the placebo preserves the co-writing format without policy content.
 
-We measured psychological closeness and policy attitudes as pre-registered z-scored indices of two items each (Methods). The main analyses shown in \autoref{fig:forest_2} use HC1 robust standard errors and correct for multiple comparisons within each study with sharpened FDR $q$ values~\cite{anderson_multiple_2008}.
+As pre-registered, we measured psychological closeness and policy attitudes as z-scored indices of two items each (Methods). The main pre-registered analyses shown in \autoref{fig:forest_2} use HC1 robust standard errors and correct for multiple comparisons within each study with sharpened FDR $q$ values~\cite{anderson_multiple_2008}.
 
 We pre-registered four hypotheses and analyses: (H1) AIM would increase psychological closeness relative to both controls; (H2) AIM would increase support for science funding relative to both controls; (H3) closeness would mediate AIM's effect on attitudes; and (H4) AIM's effects would be larger among participants with lower prior familiarity (thresholds of $\leq 2$ and $\leq 3$ on the seven-point scale).
 
@@ -162,7 +171,7 @@ To examine familiarity continuously and explore other moderators, we fit pre-reg
 
 To test robustness, we ran a follow-up experiment on satellite cybersecurity with the same co-writing procedure and control conditions, though see SI \autoref{sec:si-study-differences} for other changes between studies. We expected larger attitude effects in satellite cybersecurity, a less polarizing domain (Discussion). AIM participants wrote about a satellite cyberattack disrupting everyday life, with effects based on~\cite{van_camp_world_2022}. Vignette participants read a NATO workshop scenario~\cite{north_atlantic_treaty_organization_scenario_2026} describing the everyday consequences of a hypothetical satellite cyberattack. Placebo participants used AIM to write about the same unrelated scenarios as in Study 1. The final sample contained $N=894$ participants: 298 in AIM, 303 in the vignette condition, and 293 in the placebo condition (see SI \autoref{sec:si-descriptives} for descriptives by arm).
 
-We changed the outcome batteries in Study 2. Because Study 1's two attitude items moved weakly, we could not tell whether AIM had little effect or affected an unmeasured dimension. We therefore used seven 0--100 sliders, chosen to reduce ceiling effects, spanning three subscales---importance of satellite cybersecurity, spending priorities, and willingness to oppose funding cuts. As pre-registered, a three-factor model fit better than a one-factor model (CFI = .973 versus .775; TLI = .948 versus .662; Supplementary Table~\ref{tab:satellite-cfa}). The pre-registered primary attitude index z-scored and equally weighted the three subscales. Closeness was a z-scored index of four 1--9 items (Methods). The analyses follow Study 1.  Extended Data Tables~\ref{tab:main_effects_desc} and~\ref{tab:primary} report item-level descriptive statistics and regression estimates.
+We changed the outcome batteries in Study 2. Because Study 1's two attitude items moved weakly, we could not tell whether AIM had little effect or affected an unmeasured dimension. We therefore used seven 0--100 sliders, chosen to reduce ceiling effects, spanning three subscales---importance of satellite cybersecurity, spending priorities, and willingness to oppose funding cuts. As pre-registered, a three-factor model fit better than a one-factor model (CFI = .973 versus .775; TLI = .948 versus .662; Supplementary Table~\ref{tab:satellite-cfa}). The pre-registered primary attitude index z-scored and equally weighted the three subscales. Closeness was a z-scored index of four 1--9 items (Methods). The pre-registered hypotheses and analyses follow Study 1.  Extended Data Tables~\ref{tab:main_effects_desc} and~\ref{tab:primary} report item-level descriptive statistics and regression estimates.
 
 
 
@@ -296,10 +305,14 @@ This division replicated across domains: the 109 feature contrasts correlated $r
 \label{sec:methods}
 \clubpenalty=10000
 \widowpenalty=10000
+
+
+
+
 \subsection{Study design and preregistration}
 \label{sec:methods-study-design-and-preregistration}
 
-We randomly assigned participants to AIM, an expert vignette, or an interactive placebo, targeting 300 participants per arm. Each registration specified 80\% power to detect $d=0.23$ in a two-sided two-sample test at $\alpha=.05$. We pre-registered the science-funding experiment at \url{https://osf.io/j7dsy} and the satellite experiment at \url{https://osf.io/e967w}. Both registrations specified hypotheses concerning closeness, attitudes, mediation, and familiarity, including familiarity cutoffs of $\leq2$ and $\leq3$. Study 2 additionally pre-registered familiarity interaction tests, a factor-model comparison, and secondary attitude-subscale analyses. Both registrations also specified exploratory causal forests. The quantile, linguistic, and pooled mechanism analyses were additional exploratory analyses. See SI \ref{sec:si-screening} for pre-registration deviations.
+We randomly assigned participants to AIM, an expert vignette, or an interactive placebo, targeting 300 participants per arm. Each registration specified 80\% power to detect $d=0.23$ in a two-sided two-sample test at $\alpha=.05$. We pre-registered the science-funding experiment at \url{https://osf.io/j7dsy} and the satellite experiment at \url{https://osf.io/e967w}. Both registrations specified hypotheses concerning closeness, attitudes, mediation, and familiarity, including familiarity cutoffs of $\leq2$ and $\leq3$ (\autoref{sec:si-cutoff} for cutoff rationales). Study 2 additionally pre-registered familiarity interaction tests, a factor-model comparison, and secondary attitude-subscale analyses. Both registrations also specified exploratory causal forests. The quantile, linguistic, and pooled mechanism analyses were additional exploratory analyses. See SI \ref{sec:si-screening} for pre-registration deviations.
 
 \subsection{Procedure and participant protection}
 \label{sec:methods-procedure-and-participant-protection}
@@ -383,24 +396,41 @@ To test whether these features distinguished human from AI text, we trained an L
 
 We constructed AI-authored text by concatenating all accepted suggestions. We constructed human-authored text by removing one exact occurrence of each accepted suggestion from the final narrative. We retained a narrative only when both the AI text and the remaining human text exceeded five words. Because participants could edit or delete AI suggestions after accepting them, the final narrative did not always contain the accepted suggestion verbatim, and we remove the first exact match. We therefore reconstruct the human and AI text approximately.
 
+
 \subsection{Research use of generative AI}
 \label{sec:methods-research-use-of-generative-ai}
 
-We used generative AI (primarily OpenAI Codex and Anthropic Claude Code) for code generation, writing assistance, and stimulus refinement.
+We used generative AI for code generation, writing assistance (concision, clarity, and grammar), and stimulus refinement.
 
-\subsection{Funding}
-\label{sec:methods-funding}
+\section{Author contributions}
+\label{sec:methods-author-contributions}
 
-Both studies received funding from the Cooperative AI Foundation and the University of Michigan's Propelling Original Data Science program.
+Joshua Ashkinaze conceived the initial system and experiments, programmed the system and experiments, ran the experiments, conducted the analyses, and wrote the manuscript. Yubo Zhou contributed to experimental design, system programming, analysis, and manuscript writing. Pengyu Chen contributed to experimental design, system programming, and analysis. Avi Bhattacharya contributed to system design and system programming. Hyebin Park and Yanman Zhang contributed to system design. Stephanie Preston, Eric Gilbert, and Ceren Budak supervised the research and provided feedback on the manuscript and figures.
 
-\subsection{Acknowledgments}
-We thank Scott Page, David Rand, and Misha Teplitskiy for feedback. We also received helpful feedback from the Political Communication Working Group at the University of Michigan.
+\section{Data availability}
+\label{sec:methods-data-availability}
+
+For publication, we will share non-personally identifiable data at the second link in  \autoref{sec:methods-code-availability}.
+
+\section{Code availability}
+\label{sec:methods-code-availability}
+
+An open-source version of the system is available at \url{https://github.com/josh-ashkinaze/asif-machine/tree/main}. Code and data for these studies are available at \url{https://github.com/josh-ashkinaze/asif-studies-public}.
 
 \bibliographystyle{unsrtnat}
 \begingroup
 \raggedright
 \bibliography{references}
 \endgroup
+
+\subsection{Acknowledgments}
+We thank Scott Page, David Rand, Misha Teplitskiy, Lavinia Dunagan, and James Dumlao for feedback. We also received helpful feedback from the Political Communication Working Group at the University of Michigan.
+
+\subsection{Funding}
+\label{sec:methods-funding}
+
+Both studies received funding from the Cooperative AI Foundation and the University of Michigan's Propelling Original Data Science program.
+
 \clearpage
 \section{Extended Data}
 \label{sec:extended-data}
@@ -581,6 +611,17 @@ Table~\ref{best_practices} shows how AIM translates the first principle into sys
 \renewcommand{\thefigure}{S\arabic{figure}}
 \renewcommand{\theHfigure}{SI.\arabic{figure}}
 \captionsetup[figure]{name=Supplementary Fig.}
+
+\subsection{Cutoff rationale}
+\label{sec:si-familiarity-cutoffs}
+\label{sec:si-cutoff}
+
+We pre-registered two cutoffs for low familiarity, $\leq 2$ and $\leq 3$ on the 1--7 familiarity scale, for three reasons.
+
+First, we planned to run multiple studies, so we wanted the same cutoffs on the same 1--7 scale in every study rather than cutoffs chosen for a single dataset. We pre-registered identical cutoffs for Study 1 and Study 2. Second, 2 and 3 were a priori reasonable. A cutoff of $\leq 1$ risks leaving too few participants in the low-familiarity group, and a cutoff of $\leq 4$ places participants at the scale midpoint in the low-familiarity group. That leaves $\leq 2$ and $\leq 3$, so we pre-registered both as sensitivity checks. Both cutoffs approximate common conventions: $\leq 3$ is a midpoint split (all responses below 4), and $\leq 2$ approximates the bottom third of the scale. We did not exclude middle responses, so that every participant entered the analysis. Third, a small pilot on science funding suggested that a cutoff of 3 would leave enough participants in the low-familiarity group.
+
+Note that we also pre-registered a test of familiarity that does not depend on any cutoff. The causal forests treat familiarity as continuous, and we summarize its moderation with the best linear projection (Methods, \autoref{sec:methods-causal-forests}).
+
 \subsection{Screening procedure, deviations, complications}
 \label{sec:si-screening}
 
@@ -588,7 +629,7 @@ Table~\ref{best_practices} shows how AIM translates the first principle into sys
 
 Study 2 included several additional pre-registered criteria. Participants had to meet a minimum writing threshold before proceeding beyond the writing task. Post-task exclusions additionally covered Safari use and reCAPTCHA scores below 0.5 when available.
 
-\textbf{Deviations.} In Study 1, participants who reported a technical problem could select from predefined non-serious and serious errors or describe an unlisted error in an ``Other'' field. We pre-registered manually classifying these custom reports as serious or non-serious. We did not conduct this review, for efficiency, to maintain power, and to avoid introducing subjective classifications that would be difficult to apply consistently in follow-up studies. We therefore excluded only participants who selected a predefined serious error. Due to a survey programming error, we applied the first attention-check exclusion after data collection rather than screening participants out immediately and although CAPTCHA checks were implemented in both studies, we did not record Qualtrics reCAPTCHA \emph{scores} in Study 1 and for most of Study 2. We therefore applied the reCAPTCHA-score exclusion only to the subset of Study 2 participants for whom scores were recorded. Unlike the pre-task CAPTCHA itself, the reCAPTCHA score did not determine study entry; it provided a continuous estimate of the likelihood that a respondent was a bot. In Study 2, four participants messaged us on Prolific to report significant errors, and we excluded these participants as well.
+\textbf{Deviations.} In Study 1, participants who reported a technical problem could select from predefined non-serious and serious errors or describe an unlisted error in an ``Other'' field. We pre-registered manually classifying these custom reports as serious or non-serious. We skipped this review to save time, preserve power, and avoid subjective classifications that would be hard to apply consistently in follow-up studies, so we excluded only participants who selected a predefined serious error. A survey programming error had two consequences. First, we applied the first attention-check exclusion after data collection rather than screening participants out immediately. Second, although both studies required passing a CAPTCHA to advance, we did not record Qualtrics's continuous reCAPTCHA \emph{scores} in Study 1 or for most of Study 2. We therefore applied the reCAPTCHA-score exclusion only to the subset of Study 2 participants for whom scores were recorded. Unlike the pre-task CAPTCHA itself, the reCAPTCHA score did not determine study entry; it provided a continuous estimate of the likelihood that a respondent was a bot. In Study 2, four participants messaged us on Prolific to report significant errors, and we excluded them as well. Finally, the pre-registration discussed pooling Studies 1 and 2 in one causal random forest. We did not pool them because the moderator coefficients correlated only weakly and inconsistently across the two studies ($r$ ranged from $-0.41$ to $0.54$ across the four forests; Supplementary Information~\ref{sec:si-blp-consistency}), so a pooled forest would mislead.
 
 
 
@@ -871,7 +912,7 @@ Let $X$ be treatment, $T$ be transportation, and $C$ be closeness. We first cons
 
 \textbf{Proposed Path 2}. Conversely, if the true path is $X \to C \to T$, then the effect of $X$ on $T$ should be mediated by $C$: After controlling for $C$, the effect of $X$ on $T$ should be close to zero.
 
-Supplementary Table~\ref{tab:mediation_direction_tests} reports the unadjusted and adjusted treatment coefficient for both proposed chains. Here we find that the coefficient of $X$ on $C$ is large, and controlling for $T$ does not reduce it to zero. That is inconsistent with Path 1. However, the coefficient of $X$ on $T$ goes to zero once we include $C$ (its interval includes zero in every study). That is consistent with Path 2. Thus, the data are inconsistent with the path $X \to T \to C$ and consistent with the path $X \to C \to T$, the ordering of the serial model.
+Supplementary Table~\ref{tab:mediation_direction_tests} reports the unadjusted and adjusted treatment coefficient for both proposed chains. Here we find that the coefficient of $X$ on $C$ is large, and controlling for $T$ does not reduce it to zero. That is inconsistent with Path 1. However, the coefficient of $X$ on $T$ goes to zero once we include $C$. That is consistent with Path 2. Thus, the data are inconsistent with the path $X \to T \to C$ and consistent with the path $X \to C \to T$, the ordering of the serial model.
 
 
 {\tiny
@@ -965,6 +1006,18 @@ extending to $1.5$ times that range.
 \forestblock{sci_fund_real/plots}{study_comparison/tables/grf_sci_fund_real}{Study 1: Science funding}{vignette}
 \forestblock{satellite/plots}{study_comparison/tables/grf_satellite}{Study 2: Satellite cybersecurity}{placebo}
 \forestblock{satellite/plots}{study_comparison/tables/grf_satellite}{Study 2: Satellite cybersecurity}{vignette}
+\clearpage
+
+\subsection{Consistency of moderators across studies}
+\label{sec:si-blp-consistency}
+To check whether the same moderators shaped AIM's effects in both studies, we plotted each moderator's best linear projection coefficient from Study 1 next to its coefficient from Study 2 (Supplementary Figure~\ref{fig:blp-cross-study}). We standardized moderators within each study, so the coefficients are comparable. For each of the four forests, we also correlated the two studies' coefficients across moderators.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=\linewidth]{study_comparison/plots/blp_cross_study.pdf}
+\caption{Best linear projection coefficients in both studies. Points show each moderator's coefficient with its $95\%$ confidence interval for Study 1 (science funding) and Study 2 (satellite cybersecurity). Moderators are standardized within study. Each panel is one outcome and AIM--control comparison, and $r$ is the correlation between the two studies' coefficients across that panel's moderators. The vignette comparison omits the four app-usage moderators, which only AIM and placebo participants have.}
+\label{fig:blp-cross-study}
+\end{figure}
 \clearpage
 
 
